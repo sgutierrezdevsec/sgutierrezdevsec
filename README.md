@@ -1,7 +1,7 @@
 
 <h1>Sergio Gutierrez Vara</h1>
 
-prueba de prueba
+<!-- prueba de prueba
 
 
 Red Team | Máster en Ciberseguridad | CCSP | En formación EHE y OSCP
@@ -246,4 +246,4 @@ https://github.com/YOUR_USERNAME
 
 ---
 
-If you are interested in my work, feel free to explore my repositories.
+If you are interested in my work, feel free to explore my repositories. -->
