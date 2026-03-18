@@ -58,7 +58,6 @@ Implementación de un pipeline completo con herramientas de seguridad:
 
 ---
 
-<!--
 ## 🚧 Proyectos en desarrollo (próximamente)
 
 ### 🔸 Plataforma de laboratorio de ciberseguridad
@@ -105,7 +104,7 @@ Simulación de entorno SOC:
 - Respuesta ante ataques
 
 ---
--->
+
 
 ## 🎯 Objetivo profesional
 
