@@ -1,6 +1,6 @@
 # Sergio Gutiérrez Vara
 
-Cybersecurity | Systems | DevSecOps
+Cybersecurity | Systems | DevSecOps | Full Stack Developer
 
 ## About
 
@@ -72,9 +72,11 @@ Custom tool for detecting common web vulnerabilities.
 
 ### Log analysis / Blue Team lab
 Simulation of attack detection using logs and monitoring tools.
--->
+
 
 ---
+
+-->
 
 ## Contact
 
