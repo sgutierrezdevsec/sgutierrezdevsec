@@ -1,26 +1,29 @@
-Cybersecurity | Systems | DevSecOps | Full Stack Developer
 
 
-<div text-align="center">
+<div align="center">
 
-<h1>Sergio Gutiérrez Vara</h1>
+ <h1>Sergio Gutiérrez Vara</h1>
+ <h4>Red Team | OSINT | Programación</h4>
+
+</div>
+
+---
+
+<div>
+
+ <h2>Sobre mí</h2>
 
 </div>
 
 
-## About
+Profesional con formación en ciberseguridad, administración de sistemas y desarrollo web, con experiencia en programación. Actualmente estoy enfocado en seguir creciendo en el ámbito de la ciberseguridad, especialmente en áreas como Red Team, OSINT y seguridad ofensiva.
 
-Background in systems administration and full stack development, currently focused on cybersecurity.
+He trabajado en entornos Windows, desarrollando aplicativos internos y webs, lo que me permite tener una visión técnica completa tanto de sistemas como de aplicaciones. Actualmente preparo certificaciones de ciberseguridad como OSCP y EHE para seguir ampliando mis conocimientos.
 
-Experience working with web technologies, scripting and basic system administration. Currently preparing certifications such as OSCP and expanding practical skills through hands-on labs and projects.
-
-Interested in:
-- Pentesting
-- Application Security
-- DevSecOps
-- Systems security
+Me considero una persona proactiva, con facilidad para aprender, orientada a la resolución de problemas y con muchas ganas de seguir desarrollándome profesionalmente dentro del sector.
 
 ---
+
 
 ## Skills
 
