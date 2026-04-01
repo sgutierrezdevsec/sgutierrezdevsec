@@ -25,41 +25,61 @@ Me considero una persona proactiva, con facilidad para aprender, orientada a la 
 ---
 
 
-## Skills
+<div>
 
-**Systems**
-- Linux, Windows
-- System administration
-- Virtualization
+ <h2>Tecnologías y herramientas</h2>
 
-**Security**
+</div>
+
+<div align="center>
+
+**Sistemas - Virtualización**
 - OWASP
 - Vulnerability analysis
 - Offensive Security
 - Hacking
 - OSINT
 
-**Development**
+**Red Team**
+- OWASP
+- Vulnerability analysis
+- Offensive Security
+- Hacking
+
+
+**OSINT**
+- Shodan
+- 
+
+
+
+**Programación**
 
 - Bash scripting
 - Python
 - HTML, CSS, JavaScript
 - PHP, SQL Server
+- Visual Studio Code, Git, GitHub
+- 
 
-**Tools**
-- SonarCloud
-- OWASP Dependency-Check
-- Burp Suite
+
+</div>
+---
+
+<div>
+
+ <h2>Proyectos</h2>
+
+</div>
+
 
 ---
 
-## Projects
+<div>
 
-### DevSecOps Pipeline
+ <h2>Contacto</h2>
 
----
-
-## Contact
+</div>
 
 Email: sergiogvara@gmail.com
 LinkedIn: https://www.linkedin.com/in/sergio-gutierrez-vara/
