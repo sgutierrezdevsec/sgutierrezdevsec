@@ -31,7 +31,7 @@ Me considero una persona proactiva, con facilidad para aprender, orientada a la 
 
 </div>
 
-<div align="center>
+<div align="center">
 
 **Sistemas - Virtualización**
 - OWASP
