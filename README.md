@@ -72,16 +72,14 @@ Me considero una persona proactiva, con facilidad para aprender, orientada a la 
 
  <h2>Contacto</h2>
 
- <div display="flex">
-    <div>
-        <img src="https://skillicons.dev/icons?i=gmail" /> 
+ <div display="center">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+        &nbsp;&nbsp;&nbsp;
         <p>sergiogvara@gmail.com</p>
-    </div>
     <br>
-    <div>
-        <img src="https://skillicons.dev/icons?i=linkedin" /> 
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+        &nbsp;&nbsp;&nbsp;
         <p>https://www.linkedin.com/in/sergio-gutierrez-vara/</p>
-    </div>
  </div>
 
 </div>
