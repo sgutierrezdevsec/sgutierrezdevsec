@@ -22,7 +22,7 @@ He trabajado en entornos Windows, desarrollando aplicativos internos y webs, lo 
 Me considero una persona proactiva, con facilidad para aprender, orientada a la resolución de problemas y con muchas ganas de seguir desarrollándome profesionalmente dentro del sector.
 
 Me centro en desarrollar habilidades prácticas en seguridad ofensiva a través de laboratorios, proyectos de pruebas de penetración e investigación de inteligencia sobre amenazas.
-
+<br><br><br>
 
 Busco posiciones sobre:
 
@@ -69,7 +69,7 @@ Busco posiciones sobre:
         <img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="Gmail"/>
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/sergio-gutierrez-vara" target="blank">
+    <a href="https://www.linkedin.com/in/sergio-gutierrez-vara">
         <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn"/>
     </a>
 </div>
