@@ -17,6 +17,7 @@
 
 <div>
 
+<p>
 Profesional con formación en ciberseguridad, administración de sistemas y desarrollo web, con experiencia en programación. Actualmente estoy enfocado en seguir creciendo en el ámbito de la ciberseguridad, especialmente en áreas como Red Team, OSINT y seguridad ofensiva.
 
 He trabajado en entornos Windows, desarrollando aplicativos internos y webs, lo que me permite tener una visión técnica completa tanto de sistemas como de aplicaciones. Actualmente preparo certificaciones de ciberseguridad como OSCP y EHE para seguir ampliando mis conocimientos.
@@ -24,10 +25,11 @@ He trabajado en entornos Windows, desarrollando aplicativos internos y webs, lo 
 Me considero una persona proactiva, con facilidad para aprender, orientada a la resolución de problemas y con muchas ganas de seguir desarrollándome profesionalmente dentro del sector.
 
 Me centro en desarrollar habilidades prácticas en seguridad ofensiva a través de laboratorios, proyectos de pruebas de penetración e investigación de inteligencia sobre amenazas.
+</p>
 
 </div>
 
-Busco posiciones en:
+Busco posiciones sobre:
 
 - Red Team Operations
 - Penetration Testing
@@ -61,7 +63,7 @@ Busco posiciones en:
 
 ---
 
-<div>
+<div align="center">
     <h2>Contacto</h2>
         <a href="mailto:sergiogvara@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="Gmail"/>
