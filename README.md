@@ -32,7 +32,7 @@ Me considero una persona proactiva, con facilidad para aprender, orientada a la 
 </div>
 
 <div align="center">
-
+<!-- 
 **Sistemas - Virtualización**
 - OWASP
 - Vulnerability analysis
@@ -46,11 +46,8 @@ Me considero una persona proactiva, con facilidad para aprender, orientada a la 
 - Offensive Security
 - Hacking
 
-
 **OSINT**
 - Shodan
-- 
-
 
 
 **Programación**
@@ -60,7 +57,8 @@ Me considero una persona proactiva, con facilidad para aprender, orientada a la 
 - HTML, CSS, JavaScript
 - PHP, SQL Server
 - Visual Studio Code, Git, GitHub
-- 
+
+-->
 
 
 </div>
