@@ -39,25 +39,19 @@ Me considero una persona proactiva, con facilidad para aprender, orientada a la 
 - Offensive Security
 - Hacking
 - OSINT
-
 **Red Team**
 - OWASP
 - Vulnerability analysis
 - Offensive Security
 - Hacking
-
 **OSINT**
 - Shodan
-
-
 **Programación**
-
 - Bash scripting
 - Python
 - HTML, CSS, JavaScript
 - PHP, SQL Server
 - Visual Studio Code, Git, GitHub
-
 -->
 
 
