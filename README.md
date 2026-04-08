@@ -72,7 +72,7 @@ Me considero una persona proactiva, con facilidad para aprender, orientada a la 
 
  <h2>Contacto</h2>
 
- <div align="center">
+ <div align-content="center">
         <img src="https://skillicons.dev/icons?i=gmail" />
         &nbsp;&nbsp;&nbsp;
         <p>sergiogvara@gmail.com</p>
