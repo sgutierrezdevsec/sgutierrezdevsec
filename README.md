@@ -41,7 +41,7 @@ Busco posiciones en:
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,css,docker,git,github,gitlab,html,js,kali,linux,mysql,python,vscode,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=bash,css,docker,git,github,gitlab,html,js,kali,linux,mysql,python,vscode,windows,wordpress" width="36" height="36" alt="Tecnologías y herramientas"/>
 </div>
 
 ---
