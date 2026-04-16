@@ -3,7 +3,7 @@
 <div align="center">
 
  <h1>🕵 Sergio Gutiérrez Vara</h1>
- <h4>Red Team | OSINT | Programación</h4>
+ <h4>Cybersecurity | Red Team | Offensive Security | Threat Intelligence</h4>
 
 </div>
 
@@ -21,7 +21,7 @@ Me considero una persona proactiva, con facilidad para aprender, orientada a la 
 Me centro en desarrollar habilidades prácticas en seguridad ofensiva a través de laboratorios, proyectos de pruebas de penetración e investigación de inteligencia sobre amenazas.
 <br><br><br>
 
-Busco posiciones sobre:
+Busco posiciones en:
 
 - Red Team Operations
 - Penetration Testing
@@ -41,10 +41,7 @@ Busco posiciones sobre:
 </div>
 
 <div align="center">
-
-
-
-
+    <img src="https://skillicons.dev/icons?i=bash,css,docker,dotnet,git,github,gitlab,html,js,kali,linux,mysql,python,vscode,windows,wordpress" />
 </div>
 
 ---
@@ -53,7 +50,9 @@ Busco posiciones sobre:
     <h2>Proyectos</h2>
 </div>
 
-Actualmente me encuentro en desarrollo de varios proyectos que actualizaré lo antes posible.
+Proyectos en desarrollo:
+
+-
 
 ---
 
@@ -63,10 +62,6 @@ Actualmente me encuentro en desarrollo de varios proyectos que actualizaré lo a
 </div>
 
 <div align="center">
-    <a href="mailto:sergiogvara@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="36" height="36" alt="Gmail"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/sergio-gutierrez-vara">
         <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn"/>
     </a>
