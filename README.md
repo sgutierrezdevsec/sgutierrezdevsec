@@ -25,10 +25,10 @@ Busco posiciones en:
 
 - Red Team Operations
 - Penetration Testing
-- Adversary Simulation
+- DevSecOps
 - Threat Intelligence
 - Threat Hunting
-- Cyber Threat Analysis
+- Cyber Threat Analysis 
 
 
 ---
